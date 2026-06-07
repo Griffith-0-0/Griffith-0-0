@@ -1,56 +1,112 @@
-# Hey, I'm Khafif Badr 👋
+# Hey, I'm Badr Khafif 👋
 
-> Full-stack developer & UI enthusiast — building clean interfaces and robust backends.
+> DevOps Engineer & iOS Developer
 
----
-
-## About me
-
-I'm a developer passionate about crafting thoughtful user experiences and solid web architecture.  
-I work across the stack — from React frontends and TypeScript APIs to Java web services.  
-I care deeply about the details: clean code, intuitive interfaces, and well-documented projects.
+I build cloud-native platforms, automate software delivery pipelines, and create modern mobile experiences for Apple devices.
 
 ---
 
-## 🛠 Skills & tools
+## 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
+I'm a Software Engineer based in Morocco with a strong focus on:
 
----
+- ☁️ Cloud Native Applications
+- ⚙️ DevOps & Platform Engineering
+- 🚀 CI/CD Automation
+- 📱 Native iOS Development
+- 🏗️ Microservices Architecture
+- 📊 Observability & Monitoring
 
-## 🚀 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [slack-project](https://github.com/Griffith-0-0/slack-project) | Slack-inspired messaging app with real-time features | TypeScript |
-| [tp-react-hooks](https://github.com/Griffith-0-0/tp-react-hooks) | Exploring React hooks — state, effects, and context patterns | JavaScript |
-| [Tracker](https://github.com/Griffith-0-0/Tracker) | Task and activity tracker built with vanilla JavaScript | JavaScript |
-| [WS-SOAP-prj1](https://github.com/Griffith-0-0/WS-SOAP-prj1) | Java web service using SOAP protocol architecture | Java |
+Currently pursuing a Master's degree in Big Data & Cloud Computing while building scalable systems and native iOS applications.
 
 ---
 
-## 📊 GitHub stats
+## 🎯 Current Focus
+
+- ☸️ Kubernetes & GitOps
+- 🔄 CI/CD Automation
+- 📊 Observability (Prometheus, Grafana, Loki, Jaeger)
+- 📱 SwiftUI & iOS Architecture
+- 🏗️ Microservices Design
+- ☁️ Cloud Infrastructure
+
+---
+
+## 🛠 Tech Stack
+
+### DevOps & Cloud
+
+Docker • Kubernetes • Helm • Jenkins • GitHub Actions • Argo CD • GitOps • Nginx • Linux
+
+### Monitoring & Reliability
+
+Prometheus • Grafana • Loki • Jaeger • OpenTelemetry • AlertManager • Sentry
+
+### Backend
+
+Node.js • Express • Java • Spring Boot • REST APIs • JWT • RabbitMQ • Redis
+
+### iOS Development
+
+Swift • SwiftUI • MVVM • XCTest • SwiftLint • Supabase
+
+### Databases
+
+PostgreSQL • MySQL • MongoDB • Redis • Firestore
+
+---
+
+## 🔥 Featured Projects
+
+### ☁️ Cloud-Native Chat Platform
+
+Production-style microservices platform featuring:
+
+- Kubernetes deployment
+- GitOps with Argo CD
+- Jenkins CI/CD pipelines
+- RabbitMQ event-driven communication
+- Prometheus & Grafana monitoring
+- Loki centralized logging
+- Jaeger distributed tracing
+- Trivy & SonarCloud security scanning
+
+Stack: Node.js • React • PostgreSQL • Redis • RabbitMQ • Docker • Kubernetes • Argo CD
+
+---
+
+### 📱 Kriney – Car Rental iOS App
+
+Native iOS application for the Moroccan car rental market.
+
+Features:
+
+- Vehicle booking system
+- Agency dashboard
+- Rewards program
+- Push notifications
+- Integrated messaging
+- Automated CI/CD pipeline
+
+Stack: SwiftUI • MVVM • Supabase • PostgreSQL • GitHub Actions
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Griffith-0-0&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Griffith-0-0&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Griffith-0-0&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📬 Connect with me
+## 🌍 Connect With Me
 
-<!-- Replace these with your actual links -->
-- 📧 Email: `your@email.com`
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
-- 🌐 Portfolio: `coming soon`
+- 📧 khafif.badr.fr@gmail.com
+- 💼 LinkedIn: linkedin.com/in/badr-khafif
+- 🐙 GitHub: github.com/Griffith-0-0
 
 ---
 
-<p align="center"><sub>// always building something new</sub></p>
+<p align="center">
+Building cloud-native systems by day, crafting iOS apps by night
