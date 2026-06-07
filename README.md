@@ -102,7 +102,7 @@ Stack: SwiftUI • MVVM • Supabase • PostgreSQL • GitHub Actions
 
 ## 🌍 Connect With Me
 
-- 📧 khafif.badr.fr@gmail.com
+- 📧 khafif.badr.1@gmail.com
 - 💼 LinkedIn: linkedin.com/in/badr-khafif
 - 🐙 GitHub: github.com/Griffith-0-0
 
