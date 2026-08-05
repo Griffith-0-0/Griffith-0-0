@@ -1,6 +1,6 @@
 # Hey, I'm Badr Khafif 👋
 
-> DevOps Engineer & iOS Developer
+> Software Engineer, DevOps Engineer & iOS Developer
 
 I build cloud-native platforms, automate software delivery pipelines, and create modern mobile experiences for Apple devices.
 
